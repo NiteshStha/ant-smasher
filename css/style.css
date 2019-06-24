@@ -1,0 +1,12 @@
+body {
+  background-image: url(../images/seamless-sand-background-rusm.jpg);
+}
+
+.box-container {
+  cursor: url(../images/icons8_centre_of_gravity_50px.png), auto;
+  background-image: url(../images/seamless-sand-background-rusm.jpg);
+}
+
+.box {
+  background-image: url(../images/icons8_ant_50px.png);
+}
